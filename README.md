@@ -1,4 +1,4 @@
-# 🖥️ TripGlobe
+# ✈️ TripGlobe
 
 A clean, responsive single-page website built with **React**, **Vite**, and **Tailwind CSS**. Designed for fast development and seamless user experience across all devices.
 
